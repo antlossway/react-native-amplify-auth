@@ -468,3 +468,5 @@ module.exports = {
 [Amplify UI docs for React Native](https://ui.docs.amplify.aws/react-native/getting-started/introduction)
 
 [https://dev.to/codebeast/how-to-create-a-record-in-dynamodb-when-a-user-signs-up-34e2](https://dev.to/codebeast/how-to-create-a-record-in-dynamodb-when-a-user-signs-up-34e2)
+
+[https://assets.notjust.dev/masterclass](https://assets.notjust.dev/masterclass)
